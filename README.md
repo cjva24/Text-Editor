@@ -1,25 +1,21 @@
 # Jate Text Editor
-  # Table of Contents:
-  * [Description](#description)
-  * [How to install](#installation)
-  * [Usage](#usage)
-  * [Tests](#tests)
-  * [Credits](#credits)
-  * [License](#license)
-  * [Contact](#email)
-  * [GitHub](#github)
 
-# Description
-JATE is a browser ran text editor. It is a single page application that meets the PWA criteria. It could be useful for developers to create notes or code snippets with or without internet connection so that they can reliably retrieve them later.
+## Table of Contents:
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Tests](#tests)
+* [Credits](#credits)
 
-# How to install 
-This can be ran in the browser using the link to the deployed app. It can also be ran by dowloading from github:
-- Clone the repository from github
-- Run npm install-all to install all dependencies
-- Run npm start
-- Navigate to localhost:3000
+## Description
+Jate is a browser-based text editor. It's a single-page application that meets the criteria of a Progressive Web App (PWA). It's particularly useful for developers to create and save notes or code snippets, with or without an internet connection, ensuring reliable access to them later.
 
-# Usage 
-Type any code snippet or note into the edditor and it will be saved automatically. It can also be installed  as a PWA for offline access.
+## Installation
+Jate can be run directly in the browser using the deployed app link. Alternatively, you can run it locally by following these steps:
+- Clone the repository from GitHub
+- Run `npm install` to install all dependencies
+- Run `npm start`
+- Navigate to `localhost:3000` in your browser
 
-
+## Usage
+Simply type any code snippet or note into the editor, and it will be automatically saved. Additionally, it can be installed as a PWA for offline access.
