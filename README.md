@@ -22,13 +22,4 @@ This can be ran in the browser using the link to the deployed app. It can also b
 # Usage 
 Type any code snippet or note into the edditor and it will be saved automatically. It can also be installed  as a PWA for offline access.
 
-# License
-License: 
-![MIT license](https://img.shields.io/badge/License-MIT-brightgreen)
-[MIT license](https://opensource.org/licenses/MIT)
 
-# Contact
-bradydavisdev@gmail.com. 
-
-# GitHub
-Github: https://github.com/Brady-hash.
